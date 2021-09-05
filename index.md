@@ -42,7 +42,7 @@ _Bold indicates a mark of 80+_
 - [x] MATH3611 - Higher Analysis
 - [ ] MATH3701 - Higher Topology and Differential Geometry
 - [x] **MATH3711 - Higher Algebra**
-- [ ] MATH3871 - Bayesian Inference and Computation
+- [ ] MATH3871 - Bayesian Inference and Computation ([notes](Course%20notes/MATH3871.md))
 - [ ] MATH3901 - Higher Probability Theory
 - [ ] MATH5505 - Combinatorics
 - [ ] MATH5645 - Algebraic Number Theory ([notes](Course%20notes/MATH5645.md))
