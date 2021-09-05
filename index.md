@@ -1,9 +1,20 @@
-# _Gerald Huang_
+# _Welcome!_
 ## About
 
 Undergraduate Pure Mathematics / Computer Science student at UNSW. <br />
 Area(s) of Study: Number Theory, Combinatorics and Graph Theory, Algorithms, Theory of Computation, Artificial Intelligence.
 
+---
+### Teaching experience
+- Year 11 and 12 private tutor: 2018 - 2020
+- COMP3821 Grading Tutor: Term 1, 2021
+- COMP3121 Grading Tutor: Term 2, 2021
+
+---
+### Projects
+See here.
+
+---
 ### Courses I've taken at UNSW
 _Bold indicates a mark of 80+_
 - [x] COMP1511 - Introduction to Programming
