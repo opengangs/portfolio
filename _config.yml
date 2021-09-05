@@ -3,3 +3,4 @@ description: Gerald Huang
 theme: jekyll-theme-cayman
 github:
   course_notes_url: https://opengangs.github.io/portfolio/Course%20notes/index
+markdown: kramdown
