@@ -24,6 +24,28 @@ _Bold indicates a mark of 80+_
 - [ ] COMP9313 - Big Data Management
 - [ ] COMP9417 - Machine Learning and Data Mining
 - [ ] COMP9418 - Advanced Topics in Statistical Machine Learning
+- [x] **MATH1041 - Statistics for Life Sciences**
+- [x] MATH1081 - Discrete Mathematics
+- [x] MATH1131 - Mathematics 1A
+- [x] **MATH1231 - Mathematics 1B**
+- [x] MATH2111 - Higher Several Variable Calculus
+- [x] MATH2221 - Higher Differential Equations
+- [x] **MATH2400 - Finite Mathematics**
+- [x] MATH2601 - Higher Linear Algebra
+- [x] **MATH2621 - Higher Complex Analysis**
+- [x] MATH2701 - Abstract Algebra and Fundamental Analysis
+- [x] **MATH2901 - Higher Theory of Statistics**
+- [x] MATH2931 - Higher Linear Models
+- [ ] MATH3051 - Applied and Real Functional Analysis
+- [x] **MATH3361 - Stochastic Differential Equations 
+- [x] **MATH3411 - Information, Codes and Ciphers**
+- [x] MATH3611 - Higher Analysis
+- [ ] MATH3701 - Higher Topology and Differential Geometry
+- [x] **MATH3711 - Higher Algebra**
+- [ ] MATH3871 - Bayesian Inference and Computation
+- [ ] MATH3901 - Higher Probability Theory
+- [ ] MATH5505 - Combinatorics
+- [ ] MATH5645 - Algebraic Number Theory
 
 
 
