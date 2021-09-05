@@ -17,8 +17,8 @@ _Bold indicates a mark of 80+_
 - [x] COMP3411 - Artificial Intelligence
 - [ ] COMP3900 - Computer Science Project
 - [ ] COMP4141 - Theory of Computation
-- [ ] COMP4418 - Knowledge Representation and Reasoning
-- [ ] COMP4920 - Professional Issues and Ethics in IT
+- [ ] COMP4418 - Knowledge Representation and Reasoning ([notes](Course%20notes/COMP4418.md))
+- [ ] COMP4920 - Professional Issues and Ethics in IT ([notes](Course%20notes/COMP4920.md))
 - [ ] COMP6741 - Algorithms for Intractable Problems
 - [ ] COMP6771 - Advanced C++ Programming
 - [ ] COMP9313 - Big Data Management
