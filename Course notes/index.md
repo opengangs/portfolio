@@ -2,7 +2,7 @@
 The following is a list of course notes that I've written, including the full .pdf version:
 
 ## COMP courses
-- COMP4141: Theory of Computation (notes, pdf)
+- COMP4141: Theory of Computation ([notes](/COMP4141), pdf)
 - COMP4418: Knowledge Representation and Reasoning (notes, pdf)
 - COMP4920: Professional Issues and Ethics in IT (notes, pdf)
 - COMP6741: Algorithms for Intractable Problems (notes, pdf)
