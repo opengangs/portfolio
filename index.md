@@ -37,7 +37,7 @@ _Bold indicates a mark of 80+_
 - [x] **MATH2901 - Higher Theory of Statistics**
 - [x] MATH2931 - Higher Linear Models
 - [ ] MATH3051 - Applied and Real Functional Analysis
-- [x] **MATH3361 - Stochastic Differential Equations 
+- [x] **MATH3361 - Stochastic Differential Equations**
 - [x] **MATH3411 - Information, Codes and Ciphers**
 - [x] MATH3611 - Higher Analysis
 - [ ] MATH3701 - Higher Topology and Differential Geometry
