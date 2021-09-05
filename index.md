@@ -17,8 +17,8 @@ _Bold indicates a mark of 80+_
 - [x] COMP3411 - Artificial Intelligence
 - [ ] COMP3900 - Computer Science Project
 - [ ] COMP4141 - Theory of Computation
-- [ ] COMP4418 - Knowledge Representation and Reasoning ([notes](Course%20notes/COMP4418.md))
-- [ ] COMP4920 - Professional Issues and Ethics in IT ([notes](Course%20notes/COMP4920.md))
+- [ ] COMP4418 - Knowledge Representation and Reasoning ([notes](Course%20notes/COMP4418))
+- [ ] COMP4920 - Professional Issues and Ethics in IT ([notes](Course%20notes/COMP4920))
 - [ ] COMP6741 - Algorithms for Intractable Problems
 - [ ] COMP6771 - Advanced C++ Programming
 - [ ] COMP9313 - Big Data Management
@@ -42,10 +42,10 @@ _Bold indicates a mark of 80+_
 - [x] MATH3611 - Higher Analysis
 - [ ] MATH3701 - Higher Topology and Differential Geometry
 - [x] **MATH3711 - Higher Algebra**
-- [ ] MATH3871 - Bayesian Inference and Computation ([notes](Course%20notes/MATH3871.md))
+- [ ] MATH3871 - Bayesian Inference and Computation ([notes](Course%20notes/MATH3871))
 - [ ] MATH3901 - Higher Probability Theory
 - [ ] MATH5505 - Combinatorics
-- [ ] MATH5645 - Algebraic Number Theory ([notes](Course%20notes/MATH5645.md))
+- [ ] MATH5645 - Algebraic Number Theory ([notes](Course%20notes/MATH5645))
 
 
 
