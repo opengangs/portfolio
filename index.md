@@ -45,7 +45,7 @@ _Bold indicates a mark of 80+_
 - [ ] MATH3871 - Bayesian Inference and Computation
 - [ ] MATH3901 - Higher Probability Theory
 - [ ] MATH5505 - Combinatorics
-- [ ] MATH5645 - Algebraic Number Theory
+- [ ] MATH5645 - Algebraic Number Theory ([notes](/Course_notes/MATH5645.md))
 
 
 
