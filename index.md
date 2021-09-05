@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome
 
-Undergraduate Pure Mathematics / Computer Science student at UNSW.
+Undergraduate Pure Mathematics / Computer Science student at UNSW. <br />
 Area(s) of Study: Number Theory, Combinatorics and Graph Theory, Algorithms, Theory of Computation, Artificial Intelligence.
 
 ### Markdown
