@@ -2,5 +2,6 @@ title: Portfolio
 description: Gerald Huang
 theme: jekyll-theme-cayman
 github:
+  home: https://opengangs.github.io/portfolio
   course_notes_url: https://opengangs.github.io/portfolio/Course%20notes/index
 markdown: kramdown
