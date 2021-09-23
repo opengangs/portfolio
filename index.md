@@ -51,9 +51,15 @@ _Bold indicates a mark of 80+_
 - [x] **MATH3361 - Stochastic Differential Equations (88, HD)**
 - [x] **MATH3411 - Information, Codes and Ciphers (84, DN)**
 - [x] MATH3611 - Higher Analysis
-- [ ] MATH3701 - Higher Topology and Differential Geometry
 - [x] **MATH3711 - Higher Algebra (89, HD)**
 - [ ] MATH3871 - Bayesian Inference and Computation ([notes](Course%20notes/pdf/MATH3871.pdf))
 - [ ] MATH3901 - Higher Probability Theory
+- [ ] MATH5425 - Graph Theory
 - [ ] MATH5505 - Combinatorics
+- [ ] MATH5605 - Functional Analysis
+- [ ] MATH5665 - Algebraic Topology
+- [ ] MATH5515 - Special Topic In Pure Mathematics A (Analytic Number Theory)
 - [ ] MATH5645 - Algebraic Number Theory ([notes](Course%20notes/pdf/MATH5645.pdf))
+- [ ] MATH5725 - Galois Theory
+- [ ] MATH5735 - Modules and Representation Theory
+- [ ] MATH5825 - Measure, Integration and Probability
